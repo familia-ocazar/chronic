@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+New test for labels and crops (#8861)
