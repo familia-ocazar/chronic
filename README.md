@@ -1,1 +1,1 @@
-ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
