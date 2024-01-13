@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+New test for labels and crops (#8861)
