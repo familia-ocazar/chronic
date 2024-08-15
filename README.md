@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Add Amazon Sagemaker Docs integrations page (#7293)
